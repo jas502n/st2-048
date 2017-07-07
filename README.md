@@ -1,8 +1,9 @@
 # St2-048 Remote Code Execution
-Apache Struts 2  possible RCE in the Struts Showcase app in the Struts 1 plugin example in the Struts 2.3.x series
+[Apache Struts 2  possible RCE in the Struts Showcase app in the Struts 1 plugin example in the Struts 2.3.x series](https://cwiki.apache.org/confluence/display/WW/S2-048)
 
 http://struts.apache.org/docs/s2-048.html 
 
+https://cwiki.apache.org/confluence/display/WW/S2-048
 
 # Use-Age:
 
