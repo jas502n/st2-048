@@ -5,7 +5,7 @@ http://struts.apache.org/docs/s2-048.html
 
 
 # Use-Age:
-![](/use-age.jpg)
+
 ```bash
 > python St2-048.py
 
@@ -17,6 +17,7 @@ root
 
 cmd >>:
 ```
+![](/use-age.jpg)
 
 ##  Summary
 Possible RCE in the Struts Showcase app in the Struts 1 plugin example in Struts 2.3.x series
