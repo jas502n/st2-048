@@ -21,11 +21,11 @@ It is possible to perform a RCE attack with a malicious field value when using t
 
 Always use resource keys instead of passing a raw message to the ActionMessage as shown below, never pass a raw value directly
 
-#  messages.add("msg", new ActionMessage("struts1.gangsterAdded", gform.getName()));
+  messages.add("msg", new ActionMessage("struts1.gangsterAdded", gform.getName()));
 
 and never like this
 
-#  messages.add("msg", new ActionMessage("Gangster " + gform.getName() + " was added"));
+  messages.add("msg", new ActionMessage("Gangster " + gform.getName() + " was added"));
 
 ##  Backward compatibility
 
