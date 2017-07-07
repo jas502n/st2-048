@@ -8,7 +8,8 @@ http://m.bobao.360.cn/learning/detail/4078.html
 
 # Use-Age:
 ![](/use-age.jpg)
-## > python St2-048.py
+```bash
+> python St2-048.py
 
 set url :http://xx.xx.xx.xx:port/integration/saveGangster.action
 
@@ -17,6 +18,7 @@ cmd >>: whoami
 root
 
 cmd >>:
+```
 
 ##  Summary
 Possible RCE in the Struts Showcase app in the Struts 1 plugin example in Struts 2.3.x series
