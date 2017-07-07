@@ -2,9 +2,7 @@
 Apache Struts 2  possible RCE in the Struts Showcase app in the Struts 1 plugin example in the Struts 2.3.x series
 
 http://struts.apache.org/docs/s2-048.html 
-# 参考文章链接：
-## 【漏洞分析】Struts2高危漏洞S2-048分析
-http://m.bobao.360.cn/learning/detail/4078.html
+
 
 # Use-Age:
 ![](/use-age.jpg)
@@ -57,3 +55,6 @@ and never like this
 
 No backward incompatibility issues are expected.
 
+# 参考文章链接：
+## 【漏洞分析】Struts2高危漏洞S2-048分析
+http://m.bobao.360.cn/learning/detail/4078.html
