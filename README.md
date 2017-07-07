@@ -22,19 +22,19 @@ cmd >>:
 Possible RCE in the Struts Showcase app in the Struts 1 plugin example in Struts 2.3.x series
 
 
-- Who should read this	          All Struts 2 developers and users should read this
+- Who should read this	          **All Struts 2 developers and users should read this**
 
-- Impact of vulnerability	         Possible RCE when using the Struts 2 Struts 1 plugin
+- Impact of vulnerability	        **Possible RCE when using the Struts 2 Struts 1 plugin**
 
-- Maximum security rating       	High
+- Maximum security rating       	**High**
 
-- Recommendation	                Please read the Solution section
+- Recommendation	                **Please read the Solution section**
 
-- Affected Software	              Struts 2.3.x with Struts 1 plugin and Struts 1 action
+- Affected Software	              **Struts 2.3.x with Struts 1 plugin and Struts 1 action**
 
-- Reporter	                      icez <ic3z at qq dot com> from Tophant Competence Center
+- Reporter	                      **icez <ic3z at qq dot com> from Tophant Competence Center**
 
-- CVE Identifier	                CVE-2017-9791
+- CVE Identifier	                **CVE-2017-9791**
 
 
 ##  Problem
