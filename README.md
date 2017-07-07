@@ -10,7 +10,7 @@ http://m.bobao.360.cn/learning/detail/4078.html
 ![](/use-age.jpg)
 ## > python St2-048.py
 
-set url :http://**.**.**.**:port/integration/saveGangster.action
+set url :http://xx.xx.xx.xx:port/integration/saveGangster.action
 
 cmd >>: whoami
 
