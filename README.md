@@ -7,7 +7,7 @@ http://struts.apache.org/docs/s2-048.html
 http://m.bobao.360.cn/learning/detail/4078.html
 
 # Use-Age:
-
+https://github.com/jas502n/st2-048/blob/master/use-age.jpg
 > python St2-048.py
 
 set url :http://**.**.**.**:port/integration/saveGangster.action
