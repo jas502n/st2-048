@@ -1,7 +1,7 @@
 # st2-048
 Apache Struts 2  possible RCE in the Struts Showcase app in the Struts 1 plugin example in the Struts 2.3.x series
 
-Struts2-048  
+http://struts.apache.org/docs/s2-048.html 
 
 ##  Summary
 Possible RCE in the Struts Showcase app in the Struts 1 plugin example in Struts 2.3.x series
